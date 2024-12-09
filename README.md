@@ -22,6 +22,9 @@
         "exp": 1733841401
     }
     }
+
+
+
 #Technologies Used:
     *Backend: Node.js, Express.js
     *Database: MongoDB with Mongoose
@@ -29,5 +32,5 @@
 #Features:
       Authendication & Authorization  first Created the Register , and Login the database using #Postman
       get the Token and user in Authorization created the Json format pages
-#connect with LinkedIn: www.linkedin.com/in/rajesh-baskar2211      
+#connect with Me: www.linkedin.com/in/rajesh-baskar2211      
       
